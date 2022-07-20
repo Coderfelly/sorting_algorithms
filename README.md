@@ -85,4 +85,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **JDavid Masila and Felicia Magingo**
+* **David Masila and Felicia Magingo**
